@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# build outputs
+build/
+dist/
+publish/
+
+# Python
+__pycache__/
+
+# files the mod writes at runtime (they belong to one player)
+mod/SRCWMenu/SRCWMenu.ini
+mod/SRCWMenu/Lists/
+mod/SRCWMenu/relock.txt
+mod/SRCWMenu/request*.txt
+mod/SRCWMenu/settings.txt
